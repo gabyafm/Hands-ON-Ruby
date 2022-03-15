@@ -2,7 +2,7 @@ floor = 1
 odd = 1
 space = "\s"
 
-puts "Quantos anadares você quer que a torre tenha?"
+puts "Quantos andares você quer que a torre tenha?"
 tower = gets.chomp.to_i
 
 while floor <= tower
